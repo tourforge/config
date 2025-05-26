@@ -1,3 +1,3 @@
 {
-    "baseUrl": "https://fmu-tourforge-data.s3.us-east-1.amazonaws.com/FlorenceNavigator"
+    "baseUrl": "https://tourforge.s3.us-east-2.amazonaws.com/FlorenceNavigator"
 }
